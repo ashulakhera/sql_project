@@ -9,3 +9,7 @@ FROM
         orders
     JOIN order_details ON orders.order_id = order_details.order_id
     GROUP BY order_date) AS order_quantity;
+
+######################EXAMPLE_OUTPUT#########################
+avg_number_of_pizzas_per_day
+138
