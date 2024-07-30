@@ -12,3 +12,9 @@ FROM
 GROUP BY pizza_types.name
 ORDER BY revenue DESC
 LIMIT 3;
+
+####################EXAMPLE_OUTPUT####################
+name           	       revenue
+The Thai Chicken Pizza	43434.25
+The Barbecue Chicken Pizza	42768
+The California Chicken Pizza	41409.5
