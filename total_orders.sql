@@ -3,5 +3,8 @@ SELECT
     COUNT(order_id) AS total_orders
 FROM
     orders;
+
+###############EXAMPLE_OUTPUT###############
     
-    
+total_orders
+21350
