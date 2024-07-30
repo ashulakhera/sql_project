@@ -17,3 +17,11 @@ FROM
         JOIN
     order_details ON order_details.pizza_id = pizzas.pizza_id
 GROUP BY pizza_types.category;
+
+####################EXAMPLE_OUTPUT#####################
+
+category	revenue
+Classic	    26.91
+Veggie	    23.68
+Supreme	    25.46
+Chicken	    23.96
