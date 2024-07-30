@@ -11,3 +11,11 @@ FROM
     order_details ON order_details.pizza_id = pizzas.pizza_id
 GROUP BY pizza_types.category
 ORDER BY quantity DESC;
+
+######################EXAMPLE_OUTPUT###################
+    
+category	quantity
+Classic 	14888
+Supreme	    11987
+Veggie   	11649
+Chicken	    11050
