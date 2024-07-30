@@ -7,3 +7,8 @@ FROM
 GROUP BY size
 ORDER BY order_count DESC
 LIMIT 1;
+
+##################EXAMPLE_OUTPUT#################
+size	order_count
+S	    32
+
