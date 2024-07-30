@@ -7,3 +7,8 @@ FROM
     order_details
         JOIN
     pizzas ON order_details.pizza_id = pizzas.pizza_id;
+
+####################EXAMPLE_OUTPUT##################
+
+total_revenue
+817860.05
