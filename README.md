@@ -19,7 +19,8 @@ The purpose of this project is to analyze pizza sales data to derive meaningful 
 - **Total Quantity**: Find the total quantity of each pizza category ordered.
 - **Total Revenue**: Calculate the total revenue generated from pizza sales.
 
-## Use Cases
+## Use Cases:
+
 ### For Business Analysts
 - **Revenue Contribution**: Understand which pizza types contribute most to the overall revenue.
 - **Top Sellers**: Identify the most popular pizzas to focus marketing efforts.
