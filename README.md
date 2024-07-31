@@ -1,4 +1,6 @@
-# pizzahub_online
+# PizzaHub_online
+
+![](https://github.com/ashulakhera/sql_project/blob/main/images.jpg?raw=true)
 
 ## Purpose
 The purpose of this project is to analyze pizza sales data to derive meaningful insights and metrics, such as revenue contribution, order distribution, and top-performing products. This analysis can help in making data-driven decisions for improving sales strategies.
